@@ -1,0 +1,8 @@
+com\springjwt\controller\UserController.class
+com\springjwt\repository\UserRepository.class
+com\springjwt\model\User.class
+com\springjwt\service\UserService.class
+com\springjwt\config\AuthorizationServerConfig.class
+com\springjwt\config\ResourceServerConfig.class
+com\springjwt\config\SecurityConfig.class
+com\springjwt\MsSpringSecurityApplication.class
